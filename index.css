@@ -1104,9 +1104,17 @@ textarea{
         min-height: 780px;
      } 
 }
-@media only screen and (min-width:380px) and (max-width:400px){
+@media only screen and (min-width:380px) and (max-width:390px){
     .abtcontent button{
         top:700px
+    }  
+    .abtcontent{
+        min-height: 750px;
+     } 
+}
+@media only screen and (min-width:390px) and (max-width:400px){
+    .abtcontent button{
+        top:760px
     }  
     .abtcontent{
         min-height: 750px;

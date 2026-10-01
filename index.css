@@ -1096,7 +1096,7 @@ textarea{
 }
 }
 
-@media only screen and (min-width:350px) and (max-width:390px){
+@media only screen and (min-width:350px) and (max-width:380px){
     .abtcontent button{
         top:760px
     }  
@@ -1104,6 +1104,15 @@ textarea{
         min-height: 780px;
      } 
 }
+@media only screen and (min-width:380px) and (max-width:400px){
+    .abtcontent button{
+        top:700px
+    }  
+    .abtcontent{
+        min-height: 750px;
+     } 
+}
+
 @media only screen and (min-width:400px) and (max-width:500px){
     .abtcontent button{
         top:680px

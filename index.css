@@ -1,22 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+
 *{
     margin:0px;
     box-sizing: border-box;
     padding: 0px;
 }
-html, body{
-  font-family: "Italianno", cursive;
-}
+
 body{
     contain: paint;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 .overall{
     background-color:black;
     min-height: 700px;
     padding: 20px 40px; 
-    font-family: "Italianno", cursive;
-    /* overflow-x: clip; */
+
 }
 .navbar{
     background-color: black;

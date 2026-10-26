@@ -13,8 +13,7 @@ body{
     background-color:black;
     min-height: 700px;
     padding: 20px 40px; 
-font-family: "Comic Relief", system-ui;
-
+   font-family: "Comic Relief", system-ui;
 }
 .navbar{
     background-color: black;
@@ -263,7 +262,7 @@ a{
 }
 .abtcontent button{
     border: none;
-    border: 1px solid white;
+    border: 2px solid white;
     padding: 12px 30px;
     background-color: black;
     position: absolute;
@@ -271,8 +270,9 @@ a{
     color: white;
     border-radius: 10px;
     font-size: 17px;
-    font-family: "Italianno", cursive;
+    font-family: "Comic Relief", system-ui;
 }
+
 .abtcontent i{
      -webkit-text-stroke: 0.5px plum;
     color:black;
@@ -662,7 +662,7 @@ a{
   border: 1px solid #ccc;
   border-radius: 5px;
   width: 600px;
-  font-family: "Italianno", cursive; 
+  font-family: "Comic Relief", system-ui; 
   outline: none;
 }
 .input1:hover{
@@ -674,7 +674,7 @@ textarea {
   height: 130px;
   padding: 10px;
   border-radius: 5px;
-  font-family: "Italianno", cursive; 
+    font-family: "Comic Relief", system-ui;
   outline: none;
 }
 textarea:hover{
@@ -685,7 +685,7 @@ textarea:hover{
     border: none;
     padding: 8px 20px;
     border-radius: 5px;
-    font-family: "Italianno", cursive; 
+    font-family: "Comic Relief", system-ui; 
     font-size: 15px;
 }
 .down{
@@ -1291,7 +1291,7 @@ textarea{
  }
     }
 
-@media only screen and (min-width:320px) and (max-width:430px){
+@media only screen and (min-width:320px) and (max-width:400px){
     .content button{
      display: none;
     }
